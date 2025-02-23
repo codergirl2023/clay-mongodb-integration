@@ -24,11 +24,11 @@ async def add_candidate_data(candidate: CandidateSchema = Body(...)):
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Database error: {str(e)}") 
 
-@router.get("/get-search-results", response_description="Candidates Search results returned from the database")
-async def get_search_results():
+@router.post("/get-search-results", response_description="Candidates Search results returned from the database")
+async def get_search_results(search_query:dict = Body(...)):
     candidates = await list_candidates()
     try:
-        candidates_json_ranked = rank_candidates_simple(candidates, "Software engineer with 5 years of experience", 20)
+        candidates_json_ranked = rank_candidates_simple(candidates, search_query, 20)
         
         return candidates_json_ranked
     except Exception as e:
