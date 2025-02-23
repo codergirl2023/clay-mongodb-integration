@@ -1,6 +1,6 @@
 from fastapi import APIRouter, Body, HTTPException
 from fastapi.encoders import jsonable_encoder
-from app.rankingAlgorithm import rank_candidates_simple
+from feature1 import rank_candidates_simple
 import json
 from server.database import (
     add_candidate,
