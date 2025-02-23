@@ -1,5 +1,4 @@
 from typing import Optional, List
-
 from pydantic import BaseModel, Field
 
 class CandidateSchema(BaseModel):
@@ -37,7 +36,22 @@ class CandidateSchema(BaseModel):
     github_repositories_response: Optional[str] = Field(default=None)
     social_media: Optional[str] = Field(default=None)
     social_media_response: Optional[str] = Field(default=None)
+    awards_date: Optional[str] = Field(default=None)
+    awards_title: Optional[str] = Field(default=None)
+    profile_picture: Optional[str] = Field(default=None)
 
+    @classmethod
+    def field_names(cls):
+        return [
+            'First Name', 'Last Name', 'full name', 'Job Title', 'Location',
+            'Company Domain', 'LinkedIn URL', 'Current Company', 'Summary',
+            'Work Experience', 'Total Experience', 'Github URL', 'Skills', '_id', 'LinkedIn Profile',
+            'awards title', 'profile picture', 'awards date'
+        ]
+    
+class CandidateCollection(BaseModel):
+    candidates: List[CandidateSchema]
+    
 def ResponseModel(data, message):
     return {
         "data": [data],

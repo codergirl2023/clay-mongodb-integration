@@ -1,0 +1,862 @@
+First Name,Last Name,full name,Job Title,Location,Company Domain,LinkedIn URL,Current Company,Summary,Work Experience,Total Experience,Github URL,Skills,_id,LinkedIn Profile,awards title,profile picture,awards date
+Chris,Ding,Chris Ding,Software Developer,"Toronto, Ontario, Canada",instaclick.com,https://www.linkedin.com/in/chris-ding-9777b21b/,"Instaclick,2005-11-01,present","Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in PHP, Databases, Javascript, HTML, and Object Oriented Modeling. Strong engineering professional with a Bachelor's degree focused in Computer Science.","The work experiences reflect a robust background in software development and engineering across various organizations:
+
+1. **Instaclick (Current, Toronto, Canada Area)**: As a Software Developer since November 2005, responsibilities include designing and developing technical analysis for a major social network backbone system. Key tasks involved documenting specifications, implementing modules for billing, affiliate management, reporting, and search engines, utilizing technologies such as PHP, Laravel, Symfony, MySQL, JavaScript, and others.
+
+2. **SABA Accounting Solutions Ottawa Inc. (Ottawa, Canada Area)**: Worked as a Software Developer from March 2003 to January 2006, focusing on designing application architecture and database specifications. Duties included implementing various modules for services and user interfaces, designing test cases, and ensuring execution verification, primarily using PHP, MySQL, AJAX, and related technologies.
+
+3. **Datang Telecom Group (China)**: As a Telecommunication Engineer from January 1996 until January 2002, there was involvement in developing resource and switching systems for a digital SPC Switching System. Key achievements included designing a virtual object layer for voice applications, creating service control modules, and employing various technologies like multithreading and Voice Recognition. Development was carried out in ANSI C, Visual C++, SQL Server, and others.",29.0,https://github.com/xiaodingtw,"- PHP
+- Laravel
+- Symfony
+- MySQL
+- JQuery
+- Javascript
+- HTML
+- CSS
+- GIT
+- Shell Script
+- Technical Analysis
+- Documentation
+- Functional Specifications
+- Module Implementation
+- Billing Systems
+- Affiliate Systems
+- Reporting
+- Search Engine
+- Application Architecture
+- Database Design
+- User Interface Design
+- Web Page Templates
+- Test Case Design
+- AJAX
+- XML
+- Linux
+- Multithreading
+- DTMF
+- Voice Recognition
+- TTS (Text To Speech)
+- ANSI C
+- Visual C++
+- SQL Server
+- ODBC
+- Visual BASIC
+- Visual InterDev
+- ASP
+- IIS
+- Automatic Response Services
+- Digital Switching Systems
+- IVR (Interactive Voice Response)",67ac32a558d1b8ddc1f09d4f,https://www.linkedin.com/in/chris-ding-9777b21b/,,,
+Mohammad Hassan,Amer,Mohammad Hassan Amer,Software Developer,"Toronto, Ontario, Canada",,https://www.linkedin.com/in/hassan0599/,"Freelance,2021-08-01,present","I research and write about cutting-edge technology developments, specifically focusing on AI and its applications and challenges. I distill complex technical information into easily understandable content for a broad audience, presenting a balanced perspective on the topic. I have written multiple articles on AI topics such as natural language processing, computer vision, machine learning, and ethics.
+
+In addition to my writing skills, I have experience in software development, both as an intern and as a student. I have improved my skills in web development, creating webpages that load faster and are more responsive, and in mobile app development, developing an app as part of a self-assigned project. I have also completed various certifications and courses on AI, Python, and JavaScript, enhancing my problem-solving and technical skills.
+
+I am passionate about exploring the intersection between human cognition and the physical world, and using my technical skills to create innovative solutions that address real-world problems. I am always eager to learn new things and collaborate with others to achieve common goals. I am looking for opportunities to further develop my skills and knowledge in the field of AI and software development.","- **Freelance Software Developer (August 2021 - Present, Toronto, Ontario, Canada)**: Integrated OpenAI’s GPT-3.5 API for high-quality content generation; implemented tailored tweet generation achieving a 25% higher engagement rate; utilized scheduling algorithms for a 30% increase in tweet visibility; resolved client Python code issues, restoring functionality with a 100% success rate.
+
+- **Student Software Developer, Google Developers Group (March 2021 - Present, Toronto, Ontario, Canada)**: Completed a Mobile Software Development course, enhancing skills in Java, Kotlin, and Android development; developed a mobile app using best practices; engaged in community collaboration to resolve Android learning issues and attended workshops on industry practices.
+
+- **Software Development Intern, mobileLIVE Inc (June 2022 - September 2022, Richmond Hill, Ontario, Canada)**: Enhanced web development skills leading to faster, more responsive webpages; improved coding efficiency reducing bugs; gained effective communication skills within a team; learned front-end technologies including JavaScript ES7+, jQuery, and React.js.
+
+- **HR/IT Intern, Ciklum (June 2016 - June 2016, Islamabad, Pakistan)**: Developed a company blog to improve staff morale; collaborated with management to address issues; implemented initiatives for employee engagement; led team-building exercises to foster collaboration.
+
+- **Summer Intern, Mitsubishi Motors Corporation (June 2016 - June 2016, Islamabad, Pakistan)**: Observed various manufacturing processes; actively participated in assigned projects; recognized for punctuality, hard work, and strong feedback skills by supervisors.",3.6,,"- OpenAI GPT-3.5
+- Content Generation
+- API Integration
+- Tweet Generation
+- Engagement Rate Optimization
+- Intelligent Scheduling Algorithms
+- Python Code Debugging
+- Bitget API
+- Mobile Software Development
+- Java
+- Kotlin
+- XML
+- Android Studio
+- Version Control (Git)
+- Problem-Solving
+- Front-End Technologies
+- JavaScript ES7+
+- jQuery
+- React.js
+- Web Development
+- Responsive Design
+- Team Communication
+- Employee Morale Improvement
+- Team-Building Exercises
+- Communication Skills
+- Project Management
+- Manufacturing Process Observation
+- Feedback and Evaluation Skills",67ac32a505638b23b07c1233,https://www.linkedin.com/in/hassan0599/,University of Toronto Scholar,https://media.licdn.com/dms/image/v2/D5603AQFwwxSIP0D60w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727292467627?e=1743638400&v=beta&t=5hDj3oDWKxF_31gBz1nKhGqOARkcf7_Ly8DZ41yI1eA,2018-9
+George,Kasperovich,George Kasperovich,Software Developer,"Toronto, Ontario, Canada",,https://www.linkedin.com/in/kasperovich/,"Big Bank,2007-04-01,present","Looking for opportunities in Mumps, GTM, Cache', PSL, Profile world","- **Big Bank (Toronto, Canada Area)** 
+ *Software Developer (April 2007 - Present)* 
+ Key contributions include managing various projects in Integrated Banking Systems (IBS) and Mortgage Banking Systems (MBS) utilizing technologies such as Profile v5.3, 6.4, 7.4, GT.M Mumps, Unix, SQL, HTML5, and JavaScript. Responsibilities include upgrading Profile systems, customizing the platform for business requirements, and creating a WYSIWYG tool (Profile Host Studio) for enhanced interaction with system objects.
+
+- **Fidelity National Information Services** 
+ *Senior Developer (December 2005 - April 2007)* 
+ Focused on technologies including Mumps, Unix, and SQL, contributing to development projects using Profile and related scripting languages. Engaged with tools like VB.Net and dbVisualizer to enhance system functionalities.
+
+- **4W Consulting** 
+ *Senior Developer (April 2004 - December 2005)* 
+ Worked with healthcare, finance, and trading systems, utilizing Caché and MUMPS programming languages, along with HTML, CSS, SQL, and Crystal Reports to deliver solutions for clients.",17.9,,"- Profile v5.3, 6.4, 7.4
+- GT.M Mumps
+- Unix
+- DATA QWIK
+- PSL (Profile Scripting Language)
+- SQL
+- HTML5
+- XML
+- JavaScript
+- PFW (Profile for Windows)
+- Xpress
+- DA WebTop
+- Smarterm
+- ClearCase
+- Fidelity Workbench
+- WebCSR
+- PD Teller
+- Web Admin
+- PHS (Profile Host Studio)
+- Profile Upgrade
+- Customization
+- WYSIWYG tool
+- projects
+- change requests
+- incidents
+- VB.Net
+- dbVisualizer
+- Caché
+- M (MUMPS)
+- ISM
+- CSP
+- COS (Caché Object Script)
+- CSS
+- Crystal Reports
+- PCL
+- Healthcare
+- Finance
+- Trading systems",67ac32a58f0a290db17e6107,https://www.linkedin.com/in/kasperovich/,,,
+Rafael,Sanches Carvalho,Rafael Sanches Carvalho,Senior Developer,"Toronto, Ontario, Canada",georgebrown.ca,https://www.linkedin.com/in/rafael-sanches-carvalho/,"George Brown College,2022-09-01,present","Rafael holds a Bachelor of Science in Production Engineering and has extensive experience, with 8 years in business analysis and over 6 years in software development and automation pipelines. His specialty lies in process automation, and he possesses a diverse set of hybrid skills, including leadership, business acumen, problem-solving, analytical thinking, and interpersonal skills. Rafael's technical expertise includes working with Python/Django, Apache/Nginx, relational databases, Unix/Linux OS, and Bash scripts, as well as data analytics tools like Python/Pandas, Python/Spark, Apache Airflow and Power BI. He has a solid understanding of business accounting, finance, auditing, statistics, project management, and supply chain management. Additionally, Rafael has hands-on experience with cloud computing in AWS, utilizing services such as EC2, Redshift, API Gateway, and Lambda. His wide range of skills and experiences make him a valuable professional across multiple industries.","The individual has extensive experience in software development, teaching, and supply chain management, primarily with George Brown College and various companies in Brazil. 
+
+At **George Brown College**, they currently serve as a **Faculty** member, teaching Cloud Computing courses since September 2022, and previously held roles including **Contract Developer** (August 2022 - March 2023), **Senior Developer** (February 2020 - May 2022), **Computer Programmer Analyst** (September 2018 - February 2020), **Junior Developer** (July 2018 - August 2018), and **Research Student** (June 2017 - February 2018). Their work involved back-end automation, data architecture development, teaching programming languages, and implementing cloud solutions.
+
+As a **Software Developer and Private Tutor** with Neorafael IT Consulting since June 2016, they create websites using AWS technologies and provide training on various programming languages and AWS services. 
+
+They have also worked as a **Contract Developer** at **CIBC** since June 2022, focusing on back-end automation for quality assurance.
+
+In Brazil, they held various roles including **Supply Chain Consultant** at **Alcoa**, where they evaluated business processes, and **Supply Chain Coordinator** at **Duratex**, overseeing analyst teams and enhancing ERP processes. They started their career as a **Business Analyst** at **Vale**, leading logistics integration projects, and as a **Trainee - Business Analyst** at **Bunge**, participating in ERP implementation projects. Their early experience includes an internship at **Pirelli**, focusing on process automation in assembly lines.
+
+Overall, the individual demonstrates a strong background in programming, cloud solutions, supply chain optimization, and teaching across multiple platforms and environments.",19.8,https://github.com/rpaschoal/DynamicRepository,"- Cloud Computing
+- Teaching
+- Back-end Automation
+- Data Engineering
+- Python
+- Shell Scripting
+- PL/SQL
+- Apache Airflow
+- Docker
+- AWS (Lambda, Redshift, API Gateway, S3, Cloudfront)
+- HTML/CSS
+- JavaScript
+- PHP
+- Java
+- Oracle SQL
+- MySQL
+- Jupyter Notebooks
+- Data Analysis
+- Web Development
+- Data Feed Automation
+- QA Automation
+- PySpark
+- Selenium
+- TFS Pipelines
+- Databricks
+- Cloudera
+- Microsoft Azure
+- Data Architecture
+- Algorithms
+- ETL Pipelines
+- Data Quality Checks
+- Power BI
+- DAX
+- Data Modeling
+- Groovy
+- Jenkins
+- Linux
+- VM Images
+- Jasper Reports
+- PL/SQL
+- LAMP Stack
+- Bluetooth Low Energy (BLE)
+- Computer Programming
+- Networking
+- VBA
+- Excel
+- SAP ERP
+- Supply Chain Management
+- Business Analysis
+- Discrete Events Simulation
+- Business Intelligence
+- QlikView
+- Process Automation
+- Assembly Line Processes",67ac32a5211fe68843120a1b,https://www.linkedin.com/in/rafael-sanches-carvalho/,Chair's Award,,2018-5
+Jordan,Pulido,Jordan Pulido,Frontend Developer,"Toronto, Ontario, Canada",mureisaki.com,https://www.linkedin.com/in/jordan-pulido-48a0a11b4/,"Mureisaki,2021-06-01,present",,"Frontend Developer at Mureisaki (June 2021 - Present): Responsible for constructing the front end sections of web applications, utilizing programming languages such as JavaScript. Duties include testing and troubleshooting websites, analyzing requirements, and implementing software applications. Also involved in performance testing and debugging existing software.
+
+Computer Science/Engineer Tutor at One Step Forward Tutoring Services Inc. (February 2021 - Present): Provides one-on-one tutoring in programming, mathematics, and computer-related subjects. Assists students with microcomputers and hardware, and has developed a tracking system for monitoring student tasks and homework.
+
+Employee at ProTrans (June 2015 - Present): Engaged in various roles while contributing to the operations of the company.",9.3,,"- Frontend Development
+- Web Application Development
+- JavaScript
+- Code Optimization
+- Website Testing
+- User Testing
+- Troubleshooting
+- Software Design
+- Software Implementation
+- Performance Testing
+- Debugging
+- Tutoring
+- Programming Methods
+- Mathematics
+- Computer Science
+- Microcomputers
+- Microcontrollers
+- Hardware Installation
+- Tracking Systems
+- One-on-One Tutoring",67ac32a5315d8f448d2ca4ae,https://www.linkedin.com/in/jordan-pulido-48a0a11b4/,,,
+Jordan,Brown,Jordan Brown,Principal Software Engineer,"Greater Toronto Area, Canada",pixeltours.com,https://www.linkedin.com/in/jordan-brown-094b9011/,"Hive.co,2024-05-01,present","Seasoned software engineer with over 15 years of experience in developing innovative web and mobile solutions, across multiple problem domains and especially in startup environments. Adept at leading technical projects from conception to launch, employing elegant software architectures and pragmatic full stack development. Proven capability to quickly learn new problem domains and technologies.","- **Pixel Tours Inc.** (Principal Software Engineer, 2016-Present, Toronto) 
+ Directs technical aspects of client projects across various industries. Responsibilities include requirements gathering, producing estimates and proposals, and designing and implementing solutions. Key projects include developing an RAG Helpbot for a pharmaceutical company, creating an internal API for a VR startup, launching a high-rated iOS app for a tolling company, and designing major features for a CEO meeting platform.
+
+- **Class Messenger** (Senior Software Consultant, Jan 2015 - Mar 2016, Toronto) 
+ Led the development of mobile application features for iOS and Android. Created the OnTrack Live app with in-app purchases, push notifications, and ensured multi-screen support. Also implemented significant portions of the supporting API.
+
+- **CoveritLive** (Senior Software Engineer, Nov 2010 - Dec 2014) 
+ Developed features for the CoveritLive service, including a real-time control panel, payment processing for subscriptions, an overhaul of the API, and the development of an Android app. Improved the iPhone app with major bug fixes and enhancements.
+
+- **Codesta** (Software Developer, May 2008 - Nov 2010) 
+ Delivered custom software solutions across industries. Projects included an online billing system, a credit card payment page, cloud-based website deployment solutions, and developing a community website using Drupal.
+
+- **Triversity** (Operations Analyst, Co-op Position, May 2007 - Aug 2007) 
+ Developed a Java Swing application for monitoring Point-of-Sale transactional databases. The application displayed transaction summaries, enabled drill-down capabilities, and parsed log files related to failed transactions.",17.8,"https://github.com/jdbrowndev/ai-digital-picture-frame, https://github.com/jdbrowndev/matcher-chief, https://github.com/jdbrowndev/infix-expression-calculator","- Python
+- Flask
+- SQLAlchemy
+- Alembic
+- Celery
+- Redis
+- OpenAI APIs
+- PostgreSQL
+- pgvector
+- Heroku
+- Sentry
+- Django
+- DRF (Django Rest Framework)
+- Objective C
+- Swift
+- Firebase
+- AWS Cognito
+- AWS API Gateway
+- Ruby
+- Rails
+- Salesforce REST API
+- JavaScript (JS)
+- HTML
+- CSS
+- Vue.js
+- AWS S3
+- AWS Elastic Transcoder
+- PHP
+- MySQL
+- In-App Purchases
+- APNS (Apple Push Notification Service)
+- GCM (Google Cloud Messaging)
+- Auto Layout
+- PayPal Payflow API
+- JSON
+- Android SDK
+- Java
+- C#
+- MVC.net
+- MS SQL Server
+- Spring MVC
+- JSP
+- EC2
+- Rightscale
+- Drupal
+- Apache Solr
+- Lucene
+- Java Swing
+- Log-file Parsing
+- POS SQL Database
+- Transaction Monitoring",67ac32a54cdde41f11f7035c,https://www.linkedin.com/in/jordan-brown-094b9011/,,https://media.licdn.com/dms/image/v2/C4E03AQE-wRnObf76uA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1568916507061?e=1743638400&v=beta&t=KU5MaNyqs8H1sYBF82Ynlx6RcH_e656-UUt4MY4rgK4,
+Nicolas,Campos,Nicolas Campos,Frontend Developer,"Toronto, Ontario, Canada",englishasnative.com,https://www.linkedin.com/in/nicolas-campos-a8560b199/,"Inglês Nativo,2021-03-01,present","I'm an ambitious person, eager to learn, looking for an opportunity in a company where I can fully utilize my language, Easily Adaptable and Organization Skills. In addition to that I have a wide range of experience as an employee. My experience includes: teaching, translating, secretarial duties, marketing and sales. 
+I’m currently studying to be a front end developer, and I seek for an opportunity to show my abilities as a software developer, being able to contribute with my knowledge and great experience working in different positions.
+In addition I am ready and highly motivated to reach new horizons and take on new challenges. The work environment has taught me how to deal with people from different cultures and backgrounds.","**Summary of Work Experiences:**
+
+1. **Frontend Developer at Inglês Nativo (March 2021 - Present, Online)** 
+ - Tech stack: JavaScript (Vanilla, React, Node), HTML, CSS 
+ - Role: Frontend lead 
+ - Responsibilities: Developing the company’s website, contributing to discussions on new features, and implementing new features and bug fixes. 
+ - [LinkedIn](https://www.linkedin.com/company/ingl%C3%AAs-nativo)
+
+2. **Real Estate Agent at Dressler Imóveis (September 2021 - July 2022, Lajeado, Rio Grande do Sul, Brazil)** 
+ - Role: Agent in the real estate sector.
+
+3. **English Teacher at UPTIME – Comunicação em Inglês (September 2019 - November 2021)** 
+ - Role: Teaching English. 
+ - [Website](https://uptime.com.br)
+
+4. **Administrative Assistant at Calçados Beira Rio S/A (July 2017 - July 2018, Santa Clara do Sul, Rio Grande do Sul, Brazil)** 
+ - Role: Administrative support in a footwear company. 
+ - [Website](https://calcadosbeirario.com.br)",3.8,"https://github.com/ncampost/compute_manager, https://github.com/ncampost/unsup-GMM","- JavaScript
+- React
+- Node.js
+- HTML
+- CSS
+- Frontend development
+- Website development
+- Feature development
+- Bug fixing
+- Real Estate
+- English teaching
+- Communication skills
+- Administrative support",67ac32a5b642bfc5b24dc4f6,https://www.linkedin.com/in/nicolas-campos-a8560b199/,,https://media.licdn.com/dms/image/v2/D4D03AQG0SlwpSWg7MQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730686442175?e=1743638400&v=beta&t=oPCl2UaEdsauOKylxDQcNRdobKoXqOghYPevNCIXlGU,
+AMRINDER,KAUR,AMRINDER KAUR,Junior Software Developer,"Toronto, Ontario, Canada",,https://www.linkedin.com/in/kaur-amrinder/,"Purolator Inc.,2020-09-01,present","Dynamic Full-Stack Developer and Software Developer with a proven track record at HCL Canada and Techrangle Inc., showcasing expertise in Java, GitHub, along with other technologies, and exceptional problem-solving skills. Recognized for leadership in high-stakes environments, achieving a place on the Dean’s List with an 86.4 GPA. Passionate about leveraging technical and team collaboration skills to drive project success.","- **Junior Software Developer at HCL Canada INC. (Current since August 2021)**: Responsibilities include designing and testing code for new software applications, creating UI templates, deploying applications on Google Cloud Platform (GCP), and analyzing system modifications. The role involves collaborative code development, documentation, and using tools like GitHub and Google Cloud Console.
+
+- **Software Developer at HCL Canada INC. (January 2023 - June 2023)**: Worked with Microsoft as a client, engaging in weekly sync calls, testing and updating code, and task distribution within the team. Responsibilities included resolving tickets, understanding client demands, and providing solutions using C# and .NET within Agile and Scrum methodologies.
+
+- **Workplace Trainer at Purolator Inc. (Current since September 2020)**: Multifaceted role encompassing employee training on new technologies, task distribution, and daily planning based on freight volume. Responsibilities also include first aid, workplace safety, and operating heavy machinery, along with recording daily operational metrics.
+
+- **Junior Developer at Techrangle (January 2021 - January 2022)**: Contributed to the development of a standalone sports application, focusing on UI design and functionality. Utilized Angular, Ionic, HTML, and CSS with extensive use of GitHub and Visual Studio Code.
+
+- **FOH Utility Worker at OTG Management (November 2019 - September 2021)**: Managed markets, enhanced sales, ensured customer satisfaction, and handled paperwork and record maintenance at International Pearson Airport.",5.4,https://github.com/Amarinder-kaur/CSE227_2021,"- Software Development
+- UI Design
+- Python
+- DataFrames
+- Google Cloud Platform (GCP)
+- System Analysis
+- Code Development
+- Version Control (GitHub)
+- Documentation Preparation
+- Microsoft Azure
+- C#
+- .NET
+- Agile Methodologies
+- Scrum
+- Team Collaboration
+- Task Distribution
+- Code Testing
+- Client Communication
+- First Aid
+- Health and Safety Protocols
+- Workplace Training
+- Reporting
+- Angular
+- Ionic
+- HTML
+- CSS
+- Firebase
+- Visual Studio Code
+- GitLab",67ac32a6d0f5bc6b0d8797d6,https://www.linkedin.com/in/kaur-amrinder/,,https://media.licdn.com/dms/image/v2/C4E03AQGsFJY4EVxPJQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1606500774032?e=1743638400&v=beta&t=h7iFPmu_vmFO78Eiseyk5QqWDkbwyYhlKPZ6U4QuLsg,
+Alireza,Afshar,Alireza Afshar,Frontend Developer,"Toronto, Ontario, Canada",hauskey.com,https://www.linkedin.com/in/alireza-afshar-wd/,"Self-employed,2020-03-01,present","Having worked as a web developer since 2014, I’ve improved my skills in different programming languages and collaborating with stakeholders across diverse organizations. My experiences in this field have deepened my passion for web development, fueled by my love for challenges and exploration. I firmly believe that my work experience and genuine enthusiasm make me well-prepared to excel in a web developer role. 
+
+Front-End: HTML, CSS, Sass, JavaScript, React, Angular, Typescript, Webpack, REST APIs, Bootstrap
+Back-End: Next, Express, Node, Bookshelf, Knex, MySQL, MSSQL, Postgresql, PHP, Socket.io, Nginx, Docker, AWS, Heroku
+CMS: DotNetNuke(DNN), WordPress
+Version Control: Git, Bitbucket, Jira","- **Full Stack Developer (Self-employed, Toronto, Ontario, Canada, Current)**: Specializes in designing, developing, and deploying software applications with a focus on quality and performance. Proficient in translating business requirements into product features, building back-end components and APIs using technologies like Next.js, Express.js, and Node.js, while designing scalable front-end systems with React, Angular, and WordPress. Noteworthy achievements include the development of a real-time web application using Socket.IO and multiple corporate websites adhering to SEO best practices.
+
+- **Senior Frontend Developer (Haüskey, Toronto, Ontario, Canada, until August 2024)**: Focused on building advanced user-facing features with Angular and React, implementing reusable front-end solutions, and maintaining standardization with Docker. Engaged in SEO activities and collaborated with UX/UI designers in an agile environment. Achievements include the creation of an innovative Investment Calculator Tool and a multilingual website initiative utilizing hreflang tags for enhanced user experience.
+
+- **Web Developer (Sryas Inc., until January 2020)**: Worked closely with cross-functional teams to deliver software solutions. Responsibilities included upgrading DotNetNuke, improving user experience through modern design principles, and addressing security requirements in collaboration with the agile team.
+
+- **Full-Stack Developer (Arian Exchange Company, until July 2019)**: Developed web applications using HTML, CSS, Bootstrap, and PHP, focusing on responsive design and dynamic user interfaces. Managed RESTful APIs and integrated SEO practices to monitor website performance.
+
+- **Web Developer (Aras Company, Engineering and Construction Groups, until May 2018)**: Designed custom DotNetNuke solutions based on client needs and maintained server management for client websites.
+
+- **Web Developer & SEO Analyst (Prince Computer, until March 2016)**: Built a DotNetNuke website and contributed to both front-end and back-end development, along with performing SEO analyses.
+
+- **Graphic Designer (Self-Employed, until August 2014)**: Provided design services for various industries, creating websites, catalogs, and logos while consulting clients on marketing strategies.",15.1,"Here are three public GitHub repositories belonging to Alireza Afshar, along with their URLs and short descriptions:
+
+1. **BookStore:** [https://github.com/alirezafshar/BookStore](https://github.com/alirezafshar/BookStore) - A React sample demonstrating Add, Edit, Delete functionalities using Context API.
+
+2. **LandingPage:** [https://github.com/alirezafshar/LandingPage](https://github.com/alirezafshar/LandingPage) - A sample landing page built with React, JavaScript, and Sass.
+
+3. **LoginApp:** [https://github.com/alirezafshar/LoginApp](https://github.com/alirezafshar/LoginApp) - A login application created using React, Express, and Heroku.","- Software Development
+- System Deployment
+- API Development
+- Next.js
+- Express.js
+- Node.js
+- SQL
+- Prisma
+- Knex
+- React
+- Angular
+- WordPress
+- Front-end Development
+- Back-end Development
+- RESTful APIs
+- Security Features
+- Auth0
+- Kinde
+- JWT
+- Ubuntu Server Administration
+- Docker
+- SEO
+- Hreflang
+- Version Control (Git, Bitbucket)
+- Agile Methodologies
+- UX/UI Collaboration
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- jQuery
+- PHP
+- MySQL
+- Google Analytics
+- DNN (DotNetNuke)
+- Cross-browser Compatibility
+- Code Documentation
+- Website Performance Analysis
+- State Management
+- Vite
+- Webpack
+- Babel
+- Socket.IO
+- React Helmet
+- Responsive Web Design
+- BEM Methodology
+- Sass
+- Client Collaboration
+- Graphic Design
+- Marketing Consultation",67ac32a684c946dcce691268,https://www.linkedin.com/in/alireza-afshar-wd/,,https://media.licdn.com/dms/image/v2/D5603AQEICZG7aKMrXg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1722201630620?e=1743638400&v=beta&t=-gitfjedPMSKDpJyT6hkdhJB9WD7CmHEzKOjJnxJS4s,
+May Thura,Lwin,May Thura Lwin,Software Engineer,"Toronto, Ontario, Canada",thordrive.ai,https://www.linkedin.com/in/maythuralwin/,"THORDRIVE,2020-05-01,present","As a dedicated Fullstack Engineer with almost 5 years of professional experience, I possess a profound expertise in contemporary front-end frameworks including React.js (JavaScript and TypeScript), Next.js, and Redux and backend development with Python and Node.js. My proficiency extends to applying UI/UX design principles seamlessly within development projects, backed by a solid understanding of the software development lifecycle. I have demonstrated leadership in guiding projects from conceptualization through to deployment, ensuring that innovative ideas materialize into scalable and maintainable software solutions. Holding a Master’s degree in Computer Engineering and a Bachelor’s in Computer Science, my academic background has fortified my technical skills. I am recognized for my collaborative ethos, robust technical leadership, and an unwavering commitment to crafting high-quality, dependable software solutions.","The work experience includes a current role as a Frontend Engineer at THORDRIVE in Toronto, Ontario, started in May 2020, where the individual is involved in frontend development while also engaging in backend development, Android development, and UI/UX design in a startup setting. Key projects include:
+
+- **Web-Based Feedback System**: Developed with React Js, significantly improved communication efficiency within teams by 90%.
+- **File Data Management System**: Created an autonomous vehicle’s file management system, reducing operational costs by 95% and improving storage efficiency by 40%.
+- **Remote Vehicle Control System**: Designed a system with video streaming and React Js, reducing user effort and time by 90% for vehicle management.
+- **Android Application Development**: Built a Java-based app for vehicle monitoring using REST API protocols.
+- **Rigorous Testing Framework**: Instituted a thorough testing process using Jest and Python, enhancing product reliability.
+- **Code Optimization**: Enhanced code structure through OOP principles, leading to a 50% decrease in weekly bugs.
+- **Leadership and Mentoring**: Mentored junior engineers and ensured high code quality through detailed code reviews.
+
+Prior to THORDRIVE, the individual completed a Software Engineer Intern role at Pangyo Global Startup Lab in South Korea from September to December 2017. During this selective four-month internship, focused on developing a high-performance photo-sharing Android application using Java and SQL, they collaborated with a small team to tackle challenges related to latency and image quality. Their responsibilities involved building a REST API to facilitate efficient server communication, contributing to user-focused designs, and enhancing technical skills in app development.",4.7,"https://github.com/MayThura/risk-viz, https://github.com/MayThura/STLManager, https://github.com/MayThura/happy-residents-manager","- Frontend Development
+- Backend Development
+- Android Development
+- UI/UX Design
+- React Js
+- Python
+- WebRTC
+- Java
+- REST API
+- File Data Management
+- Automated Vehicle Control
+- Testing Frameworks (Jest, Python unit test)
+- Code Optimization
+- Object-Oriented Programming (OOP)
+- Leadership
+- Mentoring
+- Team Collaboration
+- Start-up Environment
+- Real-time Applications
+- SQL
+- High-Volume, Real-time Communication
+- User-Centric Design",67ac32a65074f0f22a79376e,https://www.linkedin.com/in/maythuralwin/,,,
+Srikanth,K.,Srikanth K.,Software Engineer in Test,"Greater Toronto Area, Canada",worldline.com,https://www.linkedin.com/in/srikanth-k-28571023a/,"Worldline,2021-08-01,present","My professional experience includes analyzing the business requirements, creating test strategies, and executing tests to identify bugs in new software and create and maintain automation packs for the same.
+With my educational background and my attention to detail and performance, I am in an excellent position to help your organization to produce top-quality software products.
+The following are some Skills and highlights of my qualifications and experience:
+• Worked as senior software quality Assurance analyst
+• Automating tests on Multiple Browsers using Selenium
+• Rich Framework and scripting knowledge in test tools selenium web driver
+• Regression Testing, Unit Testing, Functionality Testing, System Testing, Validation Testing.
+• Good knowledge of SDLC, STLC, Manual and Automation Testing
+• Designing, Executing the test cases using the tools and tracking defects.
+• Experience in working on HP ALM and JIRA tools.
+• Experience in selenium using TestNG, Cucumber framework
+• Experience in TDD and BDD approach.
+• Worked on Build Management tools like Maven, Jenkins.
+• Experience in Manual testing and SQL
+• Experience in UFT with VB Scripting
+• Implemented Page Object Model, worked on Page Factory.
+• Exposure on RESTful API, API Testing using Postman and Soup UI Testing
+• Exposure on Report building using Log4j, Extent Reports, Html Reports
+• Followed best practices of Agile, waterfall delivery model to enhance the processes.
+• Exposure of preparing and maintaining test documents like test cases, Test Approach/Plan Documents, Traceability Matrix, Test Closure Memo, Document of Knowledge Transfer.
+• Exposure on Git and GitHub
+• Strong Collaboration, Team Building, Interpersonal, Communication Skills with proficiency at grasping new technical concepts quickly and utilizing the same in a productive manner.
+o Team Leading experience
+
+My keen knowledge of software testing, review, and validation along with my ability to think of innovative solutions and present them to clients, will allow me to bring much value to organization.","**Worldline (August 2021 - Present) - Software Engineer in Test**
+- Analyzed business requirements and contributed to Test Plan development.
+- Prepared detailed Test Cases and participated in reviews with development and product management teams.
+- Created a Test Plan outlining testing objectives, phases, scenarios, and environment after analyzing business rules.
+- Developed an automation framework using Selenium Web Driver and Capybara, performing functional testing and identifying critical points in applications.
+- Enhanced test scripts for GUI changes and updates to the testing environment.
+- Created Python scripts for new functionalities and applied data-driven testing using Selenium.
+- Employed Maven for building and running the automation framework, implementing email report functionalities.
+- Integrated Continuous Integration with Jenkins and executed Selenium GRID for compatibility testing.
+
+**RBC (June 2018 - April 2021) - Senior QA Engineer**
+- Analyzed business requirements and drafted Test Plans for new functionalities.
+- Developed an automation framework using Selenium Web Driver and TestNG, performing functional testing and creating test scripts.
+- Engaged in manual testing, created test cases, and coordinated with various stakeholders during requirement meetings.
+- Implemented a data-driven testing framework and web services testing using POSTMAN.
+- Involved in Continuous Integration with Jenkins and implemented Selenium GRID for compatibility testing, ensuring comprehensive test coverage.
+
+**REW (October 2016 - June 2018) - QA Analyst**
+- Analyzed user/business requirements and created Test Plans and Test Cases for system testing using Selenium.
+- Developed applications following Agile methodologies, extensively automating web applications with Selenium Web Driver.
+- Implemented the Page Object Model (POM) and a test automation framework using Java, TestNG, and Maven.
+- Executed tests across multiple browsers using Selenium Grid, performed functional tests, and validated REST APIs using POSTMAN.
+- Developed Python scripts for automation and wrote test cases for smoke, functional, and regression testing.",8.4,,"- Business Requirements Document
+- Test Plan
+- Test Cases
+- Automation Framework
+- Selenium Web Driver
+- Capybara
+- Functional Testing
+- TestNG
+- Modular Framework
+- Python
+- Java
+- Maven
+- Data-Driven Testing
+- Web Services
+- POSTMAN
+- Continuous Integration
+- Jenkins
+- Selenium GRID
+- Agile Methodologies
+- Page Object Model (POM)
+- JUnit
+- Cucumber
+- Smoke Testing
+- Regression Testing
+- REST API
+- JSON Request/Response
+- Eclipse IDE
+- Test Manager",67ac32a7d0f5bc6b0d8797d8,https://www.linkedin.com/in/srikanth-k-28571023a/,,,
+Unnat,Sharma,Unnat Sharma,Frontend Developer,"Toronto, Ontario, Canada",delphitechnology.ca,https://www.linkedin.com/in/unnat-sharma-1a4802a3/,"Delphi Technology,2020-01-01,present","Certified React Developer, NodeJS/Java Spring boot for REST API, Complete full stack with MySQL Database management. Non-SQL Database with MongoDB.
+•	Well-versed in providing technological solutions to businesses in various domains 
+•	Highly skilled in Software Business Analysis and requirements elicitation.
+•	Solid understanding of the Software Development Life Cycle (SDLC).
+•	Handled projects using Waterfall & Agile development methodologies.
+•	Strong communication skills both written and verbal.
+•	Highly skilled in stakeholder analysis, business analysis, and transforming requirements into functional requirements. 
+•	Highly skilled in designing, developing, and testing code for high-quality software experience.
+•	Solid experience in JavaScript and React JS for developing front-end user interfaces.
+•	Excellent understanding bridge between the client and technical development team.
+•	Good understanding of Object-oriented programming with JAVA Spring Boot.
+•	Expertise in liaison between customers and the IT team.
+•	Able to provide hands-on training to end-user and support for the transition. 
+•	Strong time management abilities with the capacity to prioritize activities, handle projects and deliverables effectively to meet deadlines, and manage, lead, and assign duties to team members.
+•	Great Team Player with an outstanding work ethic for working independently with minimal supervision.","**Delphi Technology (2020 - Present, Toronto, Ontario, Canada)** 
+As a Frontend Developer, responsibilities include developing reusable front-end components with React, implementing UI using React/Redux for RESTful API interactions, and creating responsive designs with Bootstrap. Proficient in optimizing application performance using React profiler and applying unit testing with Jest. Experienced in consuming APIs via fetch and Axios, integrating animations with Framer Motion, and adhering to quality-focused software development practices. Collaborated with cross-functional teams on scalable software solutions while maintaining documentation and following coding standards. Utilized technologies such as HTTP, REST, AJAX, JSON, and performed source code management with GIT and SVN.
+
+**MAS Financial Services Limited (2015 - 2016, Ahmedabad, Gujarat, India)** 
+As a Jr. Software Developer, focused on designing and testing multipage applications using ASP.NET, C#, and VB.NET. Developed projects with HTML, CSS, JavaScript, and Bootstrap while contributing to financial applications and performing database operations in MSSQL. Built applications from scratch and managed software life cycles to deliver functional end-user solutions. Demonstrated teamwork and the ability to tackle challenges within set deadlines.",5.6,"The following are three public GitHub repositories associated with Unnat Sharma's professional activities:
+
+1. **GO-Chat:** [https://github.com/unnxt30/GO-Chat](https://github.com/unnxt30/GO-Chat) - A chat server and client implemented in Go.
+2. **Blog-Aggregator:** [https://github.com/unnxt30/Blog-Aggregator](https://github.com/unnxt30/Blog-Aggregator) - (Description not readily available on the repository's main page).
+3. **Load-Balancer:** [https://github.com/unnxt30/Load-Balancer](https://github.com/unnxt30/Load-Balancer) - A load balancer implemented in Go.","**Delphi Technology - Frontend Developer:**
+- React
+- React Hooks
+- React/Redux
+- RESTful APIs
+- Bootstrap
+- React Profiler
+- Performance Optimization
+- React-Router
+- Jest
+- React Testing Libraries
+- Fetch API
+- Axios
+- Framer Motion
+- Full-stack Development
+- Unit Testing
+- Software Integration
+- Problem Analysis
+- Documentation
+- Coding Standards
+- Software Development Best Practices
+- Collaboration
+- Scalable Software Solutions
+- HTTP
+- AJAX
+- JSON
+- GIT
+- SVN
+- Version Control
+- Quality Assurance
+- Lint
+- HTML5
+- CSS3
+- JavaScript/ES6
+- DOM Manipulation
+- Material-UI
+- Global State Management
+- Reducer
+- Context API
+
+**MAS Financial Services Limited - Jr. Software Developer:**
+- ASP.NET
+- C#
+- VB.NET
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- MSSQL
+- Database Operations
+- SQL Joins
+- Stored Procedures
+- Software Development Life Cycle (SDLC)
+- End-user Applications
+- Team Collaboration",67ac32a7315d8f448d2ca4b0,https://www.linkedin.com/in/unnat-sharma-1a4802a3/,,https://media.licdn.com/dms/image/v2/C5603AQF59ajeBxtNRg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1634278206845?e=1743638400&v=beta&t=45x6bQnMAbp8igOmnFcP_S_EvrR9AXOw3oQKulqhMWk,
+Manu Parmar,Gupta,Manu Parmar Gupta,Senior Java Software Engineer,"Greater Toronto Area, Canada",iccloyalty.com,https://www.linkedin.com/in/manu-parmar-gupta-23262a2/,"ICC Loyalty,2017-07-01,present","Over 20 years of hands-on experience as a technology professional specializing in architecting back-end solutions.. Have single-handedly developed LOYALTY RULE engine that are deployed on 15 Dubai/Vietnam Banks that gives loyalty points to their users. 
+
+Have done integration with Third Party APIs extensively Eg. with CBD Etisalat copartner, various payment gateways and merchant APIs and flight and hotel booking APIs. 
+
+Object Oriented Programming using Java, Spring Boot, Hibernate, Ant, Python, MySql, AWS, J2EE, C++, VC++, Forte with the last 10 years in a Senior Technical position. 
+
+Have extensively used OPEN SOURCE JAVA Frameworks like SPRING, HIBERNATE and NOSQL database like MONGO and SQL database MYSQL,SQLSERVER etc, AMAZON services like ELASTIC TRANSCODER, CLOUDFRONT, EC2, S3 etc.
+
+Highly process-oriented person, have the capability to define new processes, or improve the existing ones.
+
+Strongly believe in AUTOMATING Mundane Tasks.
+
+Designed systems that are highly scalable
+
+Dedicated team player with proven analytical and communication skills. 
+
+Demonstrated ability as well as zest to learn newer technologies. 
+
+Highly focused on making QUALITY delivery to the client by testing my own code using automation.
+
+A great team player who believes is getting things done by guiding people and building happy teams.
+
+Versatile personality - Play table tennis/ singing/ acting/ good humour and a zest to learn.","**Work Experience Summary:**
+
+1. **ICC Loyalty (Current, Bangalore)** - Senior Java Software Engineer (July 2017 - Present)
+ - Developed accrual engines for banks in Dubai to manage loyalty points for credit card transactions.
+ - Optimized engines for growing data and automated processes using ANT and Python scripts.
+ - Created performance monitoring frameworks and automated unit testing.
+
+2. **Ariose Software Private Limited (Bangalore Urban, Karnataka, India)** - Senior Java Software Engineer (November 2015 - June 2017)
+ - Developed accrual engines for various banks including Dubai Islamic Bank, generating reward points based on transaction data.
+ - Automated processes and report generation using Maven, Python, and Shell scripts.
+
+3. **CONJOOS SOLUTIONS INDIA PRIVATE LIMITED (Bangalore Urban, Karnataka, India)** - Senior Java Software Engineer (September 2014 - August 2015)
+ - Worked on Amazon Cloud Services, developing a backend engine for the 'Vliv' video sharing app using Java technologies.
+
+4. **Ariose Software Private Limited (Noida, Uttar Pradesh, India)** - Senior Java Software Engineer (January 2009 - August 2014)
+ - Engaged in multiple projects across various domains including mobile applications, SMS services, and content delivery for clients like Times of India and Hungama.
+
+5. **Intersolutions Pvt Ltd (Noida, Uttar Pradesh, India)** - Team Lead (October 2003 - January 2007)
+ - Led development for multiple gaming applications for THQ, including fantasy sports games.
+
+6. **HCL Technologies (Noida, Uttar Pradesh, India)** - Software Engineer (January 2001 - April 2003)
+ - Worked on various projects including wireless fleet management systems and B2B applications for clients in the US.
+
+7. **CMOS Soft (Santa Clara, California, United States)** - Software Engineer (June 1999 - June 2000)
+ - Developed customer service systems and toll-free ordering applications for USWest.
+
+8. **Duet Technologies (Noida, Uttar Pradesh, India)** - MTS (July 1997 - May 1999)
+ - Worked on projects involving Verilog parsers and printer systems for Validity Corporation and Mentor Graphics.",27.6,,"- Java
+- Spring
+- Hibernate
+- MySQL
+- ANT scripts
+- Python
+- Shell scripts
+- Maven
+- Cloud Services (AWS)
+- Performance monitoring
+- Automation
+- Database validation
+- Engine design and development
+- Accrual engines
+- Credit card transactions
+- Loyalty programs
+- Report generation
+- File handling
+- Unit testing
+- Error handling
+- Object-oriented programming
+- Web application development
+- Mobile application development
+- Notifications
+- Location-based services
+- Content delivery
+- Application customization
+- B2B systems
+- Wireless systems
+- Project management
+- Team leadership",67ac32a7b642bfc5b24dc4f8,https://www.linkedin.com/in/manu-parmar-gupta-23262a2/,,https://media.licdn.com/dms/image/v2/D5603AQF6YJRlX9T5sw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1691897048238?e=1743638400&v=beta&t=J_j5wy5_cZcOv1jsrB4pNbDS_UfUnwDs9cJ8l2aPDG0,
+Grenville,Eustace,Grenville Eustace,Lead Developer,"Toronto, Ontario, Canada",prolink.insure,https://www.linkedin.com/in/grenville-eustace/,"PROLINK,2020-03-01,present","I have a strong product mindset understanding business needs to come up with and develop scalable engineering solutions and oversee all software development plans from ideation to execution across cross-functional teams.
+
+I design strategies for future development projects based on the company's overall objectives and resources.
+
+Skilled in Node.js, JavaScript, Typescript, Vue.js, REST API development, NoSQL, WordPress Theme and Plugin development, HTML, CSS, MySQL, MongoDB. 
+
+Computer Programming/Systems Analysis Diploma from Seneca College of Applied Arts and Technology.","- **PROLINK (2020 - Present)**: Lead Developer responsible for building and managing distributed systems, overseeing a small team to develop a SaaS platform using NodeJS, VueJS, and MySQL. Maintains in-house web applications/APIs with PHP (Laravel) and Azure Cloud. Collaborates with a cross-functional product team to address business logic and handles debugging and problem-solving.
+
+- **BrokerLift Inc (2019 - 2020)**: Software Developer focused on creating online insurance applications and APIs using Node.js, TypeScript, Vue.js, and various technologies including Docker and AWS. Implemented TDD methodologies (Mocha/Chai).
+
+- **MediaFace (2017 - 2019)**: Web Developer who designed customized online solutions for clients, specializing in full-stack development across diverse sectors, including health and education. Developed collaborative tools and improved user-friendly designs, while handling project management responsibilities.
+
+- **Independent Contractor (2016 - 2017)**: Developed tailored online solutions for small to medium-sized businesses, focusing on client engagement and feedback throughout the development process. Worked extensively with WordPress, PHP, JavaScript, HTML5, and CSS3.
+
+- **D+H (2012 - 2016)**: Worked in Real Estate/Registrations, gaining experience in administrative and data management tasks.
+
+- **Borden Ladner Gervais LLP (2012)**: Served as a Reports and Records Clerk, managing documentation and records.
+
+- **Canadian Institute of Chartered Accountants (2011 - 2012)**: Web Developer responsible for web development projects.
+
+- **Advantage Group International Inc. (2011)**: Employed as a Technical Specialist, contributing technical support.
+
+- **College of Nurses of Ontario (2008 - 2010)**: Investigations Assistant, offering assistance in investigations and administrative support.",16.9,,"- Distributed systems
+- SaaS platform
+- NodeJS
+- VueJS
+- MySQL
+- PHP (Laravel)
+- JavaScript
+- APIs
+- Azure Cloud
+- Online payments
+- Integration
+- Cross-functional team
+- Problem-solving
+- REST APIs
+- TypeScript
+- Docker
+- AWS
+- Elasticsearch
+- MongoDB
+- TDD (Mocha/Chai)
+- Full-stack development
+- Agile development
+- Client-facing experience
+- Responsive website development
+- HTML5
+- CSS3
+- React.js
+- jQuery
+- AJAX
+- Search Engine Optimization (SEO)
+- WordPress (Custom theme and plugin development)
+- Accessibility (AODA)
+- Custom development
+- Google Analytics
+- Requirements gathering
+- Site migration
+- Installation and deployment
+- Backups
+- Technical support",67ac32a705638b23b07c1235,https://www.linkedin.com/in/grenville-eustace/,,https://media.licdn.com/dms/image/v2/C5603AQEbDB4gS20SMQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1660343639009?e=1743638400&v=beta&t=ChSbMH5SMozHV8gVf9SvyXJ57HaXWt6sMNFefBRSgGE,
+pradeep,kumar,pradeep kumar,AEM Developer,"Greater Toronto Area, Canada",dupont.com,https://www.linkedin.com/in/pradeep-kumar-0954a2189/,"DuPont,2016-08-01,present","•	5+ years of experience in Design, Development, Testing and Implementation of enterprise applications using JavaScript, Adobe CQ/AEM.
+•	Around 2+ years of experience in developing content management solutions using Adobe CQ5/AEM content management system and CRXDE IDE.
+•	Experience with Adobe AEM Developer in creating, executing tracking and managing cross channel campaigns.
+•	Experienced in content design, targeting audiences, creating and executing double-opt-in processes for landing pages using Adobe Campaign.
+•	Explored in depth in new AEM 6.3 features including Editable templates, new Sling annotations, Experience Fragments, Dynamic Media, new OSGI, context aware configuration, layout mode, mobile simulators.
+•	Strong knowledge in creating Tagging, Personalization, Internationalization and Search Engine optimization in AEM suite.
+•	Experience in implementing Rich User Interface for the applications using Java script, CSS, html, JQUERY.
+•	Implemented content management web components (templates, workflow, style sheets, Meta tagging, taxonomies, reusable components, pages) using Adobe CQ, JSP, Java script, jQuery, Ext JS, CSS, HTML.
+•	Develop applications using J2EE technologies like Java, JSP, Servlets, Apache Axis, JDBC, JNDI and XML/XSL.
+•	Good experience with Operating Systems like Windows NT/9x/2000/Me/XP/Vista and partially on UNIX.
+•	Proficiency in SQL Server, Oracle and MySQL. Experience in using application servers such as WebSphere, JBoss and Tomcat. 
+•	Expertise in Various IDEs likes CRXDE, Eclipse, RAD and WSAD.
+•	Experience in developing applications using three tier architectural frameworks such as MVC (Model View Controller) and STRUTS, SPRING framework and Hibernate.
+•	Experience in AJAX, XML, DOJO and XML related technologies like SAX, DOM Parsers.
+•	Experience in using various Configuration Management tools like SVN, SourceSafe and CVS.
+•	Worked on all phases of Systems Development life cycle (SDLC).","**AEM Developer at DuPont (August 2016 - Present)** 
+- Expertise in the AEM technology stack, including JCR, Sling, OSGi, DAM, and workflow components. 
+- Developed Day CQ components, page templates, and custom widgets using JSP, OSGI bundles, and Sling services. 
+- Involved in AEM 6.1 migration, custom workflows, and brand website development. 
+- Led content migration from Interwoven Team Site CMS to AEM and created components, templates, and workflows. 
+- Utilized HTML5, CSS3, and JavaScript, with frameworks like jQuery and unit testing tools such as Jasmine and Karma. 
+- Worked with JSF for UI components and Spring framework for J2EE applications, implementing Spring MVC and integrating Hibernate for persistence. 
+- Participated in AEM upgrades from 6.0 to 6.3 and used Sightly for dynamic markup maintenance. 
+- Developed a survey application utilizing Adobe APIs and multi-channel integrations, and managed deployment issues via JIRA within Jenkins, GIT, and Maven. 
+
+**CQ5/AEM Developer at Common Wealth Bank and Trust (December 2013 - July 2016)** 
+- Developed AEM templates, components, and OSGI bundles using JavaScript, jQuery, and Ajax. 
+- Installed and configured AEM 6.1 and implemented Sling Servlets for remote web app interaction. 
+- Integrated LDAP for user access and created custom OSGI bundles deployed via Apache Felix. 
+- Worked on Multi Site Manager (MSM) in AEM and migrated from open CMS to AEM 6.1. 
+- Used CQ5 tagging features to enhance SEO while developing components and templates. 
+- Built data access layer components using Hibernate and configured project environments with Subversion. 
+- Delivered modules on AEM 5.x and 6.0, demonstrating a deep understanding of AEM components, CRX repository, and web content management.",8.8,"1. **Repository Name:** website-templates 
+ **URL:** https://github.com/learning-zone/website-templates 
+ **Description:** 150+ HTML5 Website Templates.
+
+2. **Repository Name:** nodejs-basics 
+ **URL:** https://github.com/learning-zone/nodejs-basics 
+ **Description:** Node.js Basics (v18.x).
+
+3. **Repository Name:** javascript-basics 
+ **URL:** https://github.com/learning-zone/javascript-basics 
+ **Description:** JavaScript Basics.","- AEM (Adobe Experience Manager)
+- JCR (Java Content Repository)
+- Sling
+- OSGi
+- DAM (Digital Asset Management)
+- HTML5
+- CSS3
+- JavaScript
+- jQuery
+- JSP (JavaServer Pages)
+- Spring Framework
+- Spring MVC
+- Hibernate
+- Sightly
+- Apache Felix
+- LDAP
+- CQ5
+- Multi Site Manager (MSM)
+- Unit Testing (Jasmine, Karma)
+- Content Migration
+- OSGI Services
+- Web Development
+- Custom Workflows
+- Data Access Layer
+- Version Control (Subversion, GIT)
+- Jenkins
+- CRX (Content Repository Extreme)
+- Web Content Management
+- API Integration
+- Responsive Design",67ac32a78f0a290db17e6109,https://www.linkedin.com/in/pradeep-kumar-0954a2189/,,,
+Svitlana,P.,Svitlana P.,Software Developer Analyst,"Toronto, Ontario, Canada",ssctech.com,https://www.linkedin.com/in/svitlana-p-b4581a30/,"SS&C Technologies,2005-06-01,present",,"The work experiences include a current role as a Software Developer Analyst at SS&C Technologies since June 2005, where the individual develops and maintains a sophisticated Telnet/SSH communication tool, assists clients with deployment and troubleshooting, and creates product documentation using technologies such as C, VB6, .NET, and SQL.
+
+Prior to this, the individual worked as a Software Developer at Financial Models Company from August 2000 until June 2005, maintaining financial asset management software, interfacing with analysts to implement coding changes, and developing cross-platform applications primarily in FORTRAN, DCL, and C.
+
+From January 1996 to January 1999, they operated as an individual entrepreneur, engaging in various business activities.
+
+The earliest role was as a System Programmer in the Soviet Space Program from January 1986 to July 1991, where responsibilities included developing communication drivers and storage systems for mainframe computers using ASSEMBLER, C, and FORTRAN, and ensuring software compliance with government standards through planning, design, and testing.",19.6,"https://github.com/svetlana-p/magento_test_project
+https://github.com/svetlana-p/test-project
+https://github.com/svetlana-p/todo-list","- Telnet
+- SSH
+- C
+- VB6
+- .NET
+- MS-SQL Server
+- ACCESS
+- VBScript
+- JavaScript
+- WinSocket Programming
+- SSL Encryption
+- Install Shield
+- Financial asset management
+- GMQ
+- OpenVMS
+- AIX
+- FORTRAN
+- DCL
+- ASSEMBLER
+- System programming
+- Network communication
+- Software development
+- Documentation
+- Troubleshooting
+- Cross-platform application
+- Coding standards
+- Unit testing
+- Government standards",67ac32a74cdde41f11f7035e,https://www.linkedin.com/in/svitlana-p-b4581a30/,,https://media.licdn.com/dms/image/v2/C5603AQHl3VG5o124XA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516456029392?e=1743638400&v=beta&t=Iue76yYkfLaY99W5GiZVgJY7tj1vHnJue3qyRAX_ETs,
