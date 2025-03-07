@@ -3,7 +3,6 @@ from config.settings import settings
 from pymongo.errors import PyMongoError
 from bson import ObjectId
 from fastapi import HTTPException
-import asyncio
 DATABASE_URL = settings.DB_URL
 # WAIT_TIME = settings.DB_WAIT_TIME
 
