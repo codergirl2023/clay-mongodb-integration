@@ -3,8 +3,9 @@ from config.settings import settings
 from pymongo.errors import PyMongoError
 from bson import ObjectId
 from fastapi import HTTPException
-
+import asyncio
 DATABASE_URL = settings.DB_URL
+# WAIT_TIME = settings.DB_WAIT_TIME
 
 client = motor.motor_asyncio.AsyncIOMotorClient(DATABASE_URL)
 database = client.LookoutAI
@@ -24,7 +25,7 @@ async def add_candidate(candidate_data: dict) -> dict:
 async def list_candidates(chatbox_id):
     try:
         # Fetch candidates from MongoDB
-       
+        # await asyncio.sleep(15)
         candidates = await collection.find({'Chatbox ID': chatbox_id}).to_list(length=5)
         serialized_candidates = []
         # Serialize each candidate document
