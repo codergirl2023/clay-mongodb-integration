@@ -21,10 +21,11 @@ async def add_candidate(candidate_data: dict) -> dict:
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"An unexpected error occurred: {str(e)}")
 
-async def list_candidates():
+async def list_candidates(chatbox_id):
     try:
         # Fetch candidates from MongoDB
-        candidates = await collection.find().to_list(length=20)
+       
+        candidates = await collection.find({'Chatbox ID': chatbox_id}).to_list(length=5)
         serialized_candidates = []
         # Serialize each candidate document
         for candidate in candidates:

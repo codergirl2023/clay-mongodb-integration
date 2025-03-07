@@ -12,9 +12,8 @@ def rank_candidates_simple(candidates_json, job_description, top_n=20):
     Simplified pipeline to rank candidates based on similarity to a job description.
     """
     candidates_df = pd.DataFrame(candidates_json)
-    candidates_df = candidates_df.dropna(subset=['Work Experience', 'Summary', 'Skills'])
+    candidates_df = candidates_df.dropna(subset=['Summary', 'Skills'])
     candidates_df['Profile'] = (
-        candidates_df['Work Experience'] + " " +
         candidates_df['Summary'] + " " +
         candidates_df['Skills']
     )
